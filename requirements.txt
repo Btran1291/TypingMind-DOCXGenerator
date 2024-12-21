@@ -14,7 +14,7 @@ click==8.1.7
     # via flask
 colorama==0.4.6
     # via click
-docx==0.2.4
+docx
     # via -r requirements.in
 flask==3.1.0
     # via
